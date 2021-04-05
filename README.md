@@ -22,7 +22,7 @@ canvas.js
 # Usage
 Download the source file and add to your project. 
 
-Create a key for mapbox link and add the required live data link of covid19 cases of your required interest.
+Create a key for mapbox link commented as "YOUR COVID LINK HERE", add the required live data link of covid19 cases of your required interest commented as "YOUR COVID19 LINK HERE" and add your map / shapefile data link commented as "YOUR MAP/SHAPEFILE LINK HERE" under covid19.js file. 
 
 
 # Demo
