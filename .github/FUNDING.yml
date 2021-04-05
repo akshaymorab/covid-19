@@ -1,12 +1,4 @@
 # These are supported funding model platforms
 
 github: [akshaymorab] # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: akshaymorab # Replace with a single Patreon username
-open_collective: akshaymorab # Replace with a single Open Collective username
-ko_fi: akshaymorab # Replace with a single Ko-fi username
-tidelift: php/covid19 # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: covid-19 # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: akshaymorab # Replace with a single Liberapay username
-issuehunt: akshaymorab # Replace with a single IssueHunt username
-otechie: akshaymorab # Replace with a single Otechie username
-custom: ['http://www.souratron.com/covid-19_World', 'http://www.souratron.com/covid-19_India'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ['http://www.souratron.com'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
