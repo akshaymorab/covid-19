@@ -2,20 +2,15 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="IT SOLUTIONS ">
-    <meta name="keywords" content="HTML, CSS, JavaScript, PHP,SOURATRON,
-		WEBSITE DEVELOPERS,HYDERABAD,hyderabad it solution, hyderabad website developers,
-		india it solutions,IOT,india iot">
+    
     <meta name="author" content="RIYUZAKHI">
     <title>SOURATRON IT SOLUTIONS</title>
-    <link rel="icon" href="../images/souratron2.png" type="image/icon type">
+    <link rel="icon" href="../souratron2.png" type="image/icon type">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Caption&family=Roboto:wght@100&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../souratron.css" />
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.css' rel='stylesheet' />
 	<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css' rel='stylesheet' />
@@ -25,10 +20,9 @@
 	
 	<script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 	
-	<link rel="stylesheet" href="../covid19world/Coronadash.css"/>
-	<link rel="stylesheet" type="text/css" href="../covid19world/table.css" />
+	<link rel="stylesheet" href="../Coronadash.css"/>
+	<link rel="stylesheet" type="text/css" href="../table.css" />
 	
-    <script src="../souratron.js"></script>
 	<script src="https://kit.fontawesome.com/a076d05399.js" ></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
