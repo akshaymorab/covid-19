@@ -142,17 +142,14 @@
 		</div>
 
     
-	<div class='vdoDiv'>
-	    <p>Visitor Count <br /><span id='visitorCnt' class='vstrcnt'>###</span></p><br /><br />
-			<video class='vdohldr' autoplay muted loop>
-				<source src="../images/Covidvideo.mp4"></source>
-			</video>
-		</div>
-	</div>
+	
 
-
+    <i class="scrolltop fa fa-arrow-circle-o-up"></i>
+    <div class="strncpyrts"> 2021 <span>&copy</span> SOURATRON IT SOLUTIONS PVT. LTD. All Rights Reserved.
+	    <p> Powered by <a href="http://wwww.souratron.com"><h3>Souratron</h3></a>. </p>
+    </div>
 </body>
-</html><?php include_once '../layout_footer.php'; ?>	
+</html>	
 <style>
 header{
 	background:#0f6eafaa;
