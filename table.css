@@ -1,0 +1,31 @@
+#header-fixed { 
+    position: fixed; 
+    top: 0px; display:none;background-color:white;
+}
+.tableDesign{
+    overflow: auto;
+    width:100%;
+    color:white;
+    text-align: center;
+    font-size: 16px;
+}
+.tableDesign thead tr th{
+  border: 1px solid #0f6eafaa;
+}
+.tableDesign tbody tr td{
+  border: 1px solid #0f6eafaa;
+}
+
+.tableDesign th {
+  position: sticky;
+  top: -2px;
+  z-index: 0;
+  background: #142163;
+  color: #fff
+}
+
+@media(max-width:1200px){
+	.tableDesign{
+		font-size:32px;
+	}
+}
