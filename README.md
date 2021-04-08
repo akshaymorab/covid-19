@@ -17,8 +17,6 @@ Coviddash.css
 
 table.css
 
-canvas.js
-
 # Usage
 Download the source file and add to your project. 
 
@@ -26,6 +24,4 @@ Create a key for mapbox link commented as "YOUR MAPBOX KEY HERE", add the requir
 
 
 # Demo
-For Demo World Live Data visit: http://www.souratron.com/covid-19_world
-
-For Demo India Live Data visit: http://www.souratron.com/covid-19_india
+For Demo World Live Data visit: http://www.souratron.com/covid19world
