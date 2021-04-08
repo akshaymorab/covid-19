@@ -7,22 +7,9 @@
 	
 	<script src="covid19.js"></script>
 	<script>   
-		//https://corona.lmao.ninja/all
-		//https://corona.lmao.ninja/countries
 		$(document).ready(function () {
 			Covid19();
 		});
-		$.getJSON("https://api.ipify.org?format=json", function(data) { 
-			$.ajax({
-				type: 'POST',
-				url: 'visitorcount.php',
-				data:{uip:data.ip},
-				dataType: "json",
-				success: function (res) {
-					document.getElementById('visitorCnt').textContent = res;
-				}
-			});
-		})
 	</script> 
 
 	
@@ -30,7 +17,6 @@
 	
 	<div class="alldash">
 		    <a target="_blank" href="https://github.com/akshaymorab/covid-19"><div class="forkband">Fork @ <i class="fa fa-github"></i></div></a>
-	<!--<span id='instruct' class='instructor'>Please wait while we are joining Live Counts with Spatial Data...</span>-->
 		<div class="leftdash">
 			<br/>
 			
@@ -71,18 +57,7 @@
 						<tbody class="tbCovid19Rt"></tbody>
 					</table>
 					<table id="header-fixed"></table>
-					<!--<div class='symbology' style='left:-20px;'>
-						<p style="color:white;text-align:center;width:100%;">Symbology</p>
-						<div class='legend'> Confirmed
-							<span style='position: relative;float: left;height: 15px;width: 25px;background: rgb(17, 16, 16);border: 1px solid yellow;border-radius: 20px;margin:2px;'></span>
-						</div>
-						<div class='legend'>
-							Recovered<span style='position: relative;float: left;height: 15px;width: 25px;background: rgb(17, 16, 16);border: 1px solid #4bc34b;border-radius: 20px;margin:2px;'></p></span>
-						</div>
-						<div class='legend'>
-							Deaths<span style='position: relative;float: left;height: 15px;width: 25px;background: rgb(17, 16, 16);border: 1px solid #ea7171;border-radius: 20px;margin:2px;'></span>
-						</div>
-					</div>-->
+					
 				</div>
 				
 			</div>
