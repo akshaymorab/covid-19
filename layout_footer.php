@@ -80,7 +80,7 @@
 
     <i class="scrolltop fa fa-arrow-circle-o-up"></i>
     <div class="strncpyrts"> 2021 <span>&copy</span> SOURATRON IT SOLUTIONS PVT. LTD. All Rights Reserved.
-        <p> Laxmiguda, RGIA Road, Hyderabad. </p>
+        <p> Powered By <a href="http://www.souratron.com"><h3>Souratron</h3></a> </p>
     </div>
 
 </footer>
