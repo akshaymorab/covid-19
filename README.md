@@ -11,10 +11,6 @@ We developed a Covid 19' tracker and providing it as an open source to support t
 # Files
 Index.php
 
-Layout_header.php
-
-Layout_footer.php
-
 Covid19.js
 
 Coviddash.css
