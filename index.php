@@ -4,7 +4,8 @@
 	<meta name="author" content="RIYUZAKHI">
 	<title>Souratron - Covid19Tracker-World</title>
 </head>
-<?php include_once '../layout_header.php'; ?>
+//include your headers
+<?php include_once 'header.php'; ?>
 	
 	<script src="covid19.js"></script>
 	<script>   
@@ -145,12 +146,11 @@
     
 	
 
-    <i class="scrolltop fa fa-arrow-circle-o-up"></i>
-    <div class="strncpyrts"> 2021 <span>&copy</span> SOURATRON IT SOLUTIONS PVT. LTD. All Rights Reserved.
-	    <p> Powered by <a href="http://wwww.souratron.com"><h3>Souratron</h3></a>. </p>
-    </div>
+    
 </body>
-</html>	
+</html>
+//Include your footer	
+<?php include_once 'footer.php'; ?>
 <style>
 header{
 	background:#0f6eafaa;
