@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<meta name="author" content="RIYUZAKHI">
 	<title>Souratron - Covid19Tracker-World</title>
 </head>
 <?php include_once '../layout_header.php'; ?>
